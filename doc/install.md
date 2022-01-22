@@ -43,7 +43,7 @@ Charger la base données depuis une sauvegarde
 docker exec -i database mysql -uroot -psecret symfony < espace_membres.sql
 ```
 
-## Installation sur une serveur
+## Installation sur un serveur
 
 ### Prérequis
 
